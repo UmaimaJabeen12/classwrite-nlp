@@ -1,0 +1,21 @@
+
+the student reads a book
+the student writes an assignment
+the teacher reads a report
+the teacher explains a lesson
+the player kicks a ball
+the player scores a goal
+the team wins a match
+the team plays a game
+the doctor treats a patient
+the doctor writes a prescription
+the computer runs a program
+the computer processes data
+the programmer writes a program
+the programmer tests the software
+the student studies a lesson
+the teacher checks an assignment
+the player practices a game
+the doctor examines a patient
+the programmer develops software
+the computer processes information

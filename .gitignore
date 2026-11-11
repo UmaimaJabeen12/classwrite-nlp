@@ -1,0 +1,24 @@
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Secrets and environment variables
+.env
+.env.*
+
+# Streamlit local configuration
+.streamlit/secrets.toml
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+# Original duplicate website folder
+website_2_classwrite/
